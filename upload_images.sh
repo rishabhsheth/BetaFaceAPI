@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# FREE TIER and PUBLIC BetaFaceAPI Key
 API_KEY="d45fd466-51e2-4701-8da8-04351c872236"
 
 for i in {11..30}
