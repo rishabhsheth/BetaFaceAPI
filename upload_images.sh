@@ -3,7 +3,7 @@
 # FREE TIER and PUBLIC BetaFaceAPI Key
 API_KEY="d45fd466-51e2-4701-8da8-04351c872236"
 
-for i in {11..30}
+for i in {1..30}
 do
   IMAGE="image_${i}.jpg"
   OUTPUT="../output${i}.json"
